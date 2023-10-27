@@ -2,7 +2,7 @@
 <h2>Java Fullstack Developer</h2>
 <h3>Technologies</h3>
 <div>
- <img style="height: 40px; width: 40px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+ <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
  <img style="height: 40px; width: 100px;" alt="Java Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
 </div>
 
