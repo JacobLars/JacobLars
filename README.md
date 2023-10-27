@@ -1,5 +1,6 @@
 <h1>Hello, I'm Jacob</h1>
 <h2>Java Fullstack Developer</h2>
+<picture><img alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></picture>
 
 <!--
 **JacobLars/JacobLars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
