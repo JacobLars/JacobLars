@@ -8,6 +8,11 @@
  <img style="height: 50px; width: 50px;" alt="HTML5 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png">
  <img style="height: 50px; width: 40px;" alt="CSS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
  <img style="height: 50px; width: 50px;" alt="JS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png">
+ <img style="height: 50px; width: 50px;" alt="TS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201">
+ <img style="height: 50px; width: 50px;" alt="React Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+ <img style="height: 50px; width: 50px;" alt="Postgre Logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+ <img style="height: 50px; width: 50px;" alt="MySQL Logo" src="https://aety.io/wp-content/uploads/2016/11/mysql-logo.png">
+ 
 </div>
 
 
