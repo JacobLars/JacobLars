@@ -1,6 +1,7 @@
 <h1>Hello, I'm Jacob</h1>
 <h2>Java Fullstack Developer</h2>
-<h3>Technologies</h3>
+<h3>Linkedin</h3>
+<h3 style="text-decoration: underline;">Technologies</h3>
 <div>
  <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
  <img style="height: 40px; width: 100px;" alt="Maven Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
@@ -12,7 +13,6 @@
  <img style="height: 50px; width: 60px;" alt="React Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
  <img style="height: 50px; width: 50px;" alt="Postgre Logo" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
  <img style="height: 50px; width: 60px;" alt="MySQL Logo" src="https://aety.io/wp-content/uploads/2016/11/mysql-logo.png">
- 
 </div>
 
 
