@@ -1,9 +1,9 @@
 <h1>Hello, I'm Jacob</h1>
 <h2>Java Fullstack Developer</h2>
 <h3>Technologies</h3>
-<ul>
-  <li><img alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></li>
-<ul>
+<div>
+ <img style="height: 20px; width: 20px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+</div>
 
 
 <!--
