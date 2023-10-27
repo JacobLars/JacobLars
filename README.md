@@ -4,6 +4,7 @@
 <div>
  <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
  <img style="height: 40px; width: 100px;" alt="Java Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
+ <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png">
 </div>
 
 
