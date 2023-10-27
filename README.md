@@ -3,8 +3,10 @@
 <h3>Technologies</h3>
 <div>
  <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
- <img style="height: 40px; width: 100px;" alt="Java Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
- <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png">
+ <img style="height: 40px; width: 100px;" alt="Maven Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
+ <img style="height: 50px; width: 50px;" alt="Spring Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png">
+ <img style="height: 50px; width: 50px;" alt="HTML5 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png">
+ <img style="height: 50px; width: 50px;" alt="CSS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
 </div>
 
 
