@@ -3,7 +3,7 @@
 <h3>Technologies</h3>
 <div>
  <img style="height: 40px; width: 40px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
- <img style="height: 40px; width: 40px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png">
+ <img style="height: 40px; width: 100px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png">
 </div>
 
 
