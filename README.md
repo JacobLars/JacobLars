@@ -1,8 +1,11 @@
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobLars&hide_progress=true)
 <h1>Hello, I'm Jacob</h1>
+
 <h2>Java Fullstack Developer</h2>
 <h3>Linkedin</h3>
-<h3 style="text-decoration: underline;">Technologies</h3>
+<h3>Technologies</h3>
 <div>
+ <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react />
  <img style="height: 50px; width: 50px;" alt="Java Logo" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
  <img style="height: 40px; width: 100px;" alt="Maven Logo" src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg">
  <img style="height: 50px; width: 50px;" alt="Spring Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png">
