@@ -6,7 +6,7 @@
     <summary>
      <h1 style="display: inline-block">Hi 👋 I'm Jacob</h1>
     </br>
-     <h1>Java Fullstack Developer</h1>
+     <h1>Java Developer</h1>
     </summary>
   </ul>
 </div>
@@ -27,6 +27,7 @@
     <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,html,css,js,ts,react,jest,vscode,postgresql,mysql,docker,azure,git&perline=8" />
   </a>
 </p>
+<br/>
 <p align="center">
 <img src="https://www.codewars.com/users/LarsMustasch/badges/large"/>
 </p>
