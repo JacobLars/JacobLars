@@ -27,10 +27,11 @@
     <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,html,css,js,ts,react,jest,vscode,postgresql,mysql,docker,azure,git&perline=8" />
   </a>
 </p>
-<br/>
+<div>
 <p align="center">
 <img src="https://www.codewars.com/users/LarsMustasch/badges/large"/>
 </p>
+  </div>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
