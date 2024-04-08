@@ -28,6 +28,7 @@
   </a>
 </p>
 
+<img src="https://www.codewars.com/users/LarsMustasch/badges/large"/>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
