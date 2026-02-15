@@ -1,15 +1,7 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-     <h1 style="display: inline-block">Hi 👋 I'm Jacob</h1>
-    </br>
-     <h1>Java Developer</h1>
-    </summary>
-  </ul>
-</div>
+
 
 <p align="center">
   <img src="https://www.codewars.com/users/LarsMustasch/badges/large"/>
